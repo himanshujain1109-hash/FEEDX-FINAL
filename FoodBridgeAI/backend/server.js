@@ -43,7 +43,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
 app.get("/", (req, res) => {
-  res.send("FoodBridge AI Backend Running 🚀");
+  res.send("FEEDX AI Backend Running 🚀");
 });
 
 app.use("/api/auth", authRoutes);
