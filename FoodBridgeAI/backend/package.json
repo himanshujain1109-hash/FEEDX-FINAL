@@ -1,7 +1,7 @@
 {
-  "name": "foodbridge-backend",
+  "name": "FEEDX-backend",
   "version": "1.0.0",
-  "description": "FoodBridge AI - Backend API for surplus food redistribution platform",
+  "description": "FEEDX AI - Backend API for surplus food redistribution platform",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
